@@ -1,7 +1,5 @@
 # Title : Traffic Data and Apartment Price Analysis using Python BeautifulSoup Web Scraping.
 
-[embed]https://github.com/ghoshausc/Traffic_Data_Rent_Analysis_BeautifulSoup4/blob/main/Data_Flow_Diagram.pdf[/embed]
-
 ## Category : 
 Impact:
 •	To choosing a place to stay, traffic situation and rents in the specific area are primarily important. This project helps deduce both these two factors with utmost ease.
